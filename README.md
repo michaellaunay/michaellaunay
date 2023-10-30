@@ -20,7 +20,7 @@
             Catholic University of Lille
             Polytech'Lille
             ENSAM
-        Course Materials: [NotesPubliques](github.com/michaellaunay/NotesPubliques)
+        Course Materials: [NotesPubliques](https://github.com/michaellaunay/NotesPubliques)
 
 🌱 Personal Projects
 
