@@ -17,7 +17,6 @@
     Lecturer
         Subjects: Software Engineering, Python, GNU/Linux, and Agile Methodologies.
         Institutions:
-            Catholic University of Lille
             Polytech'Lille
             ENSAM
         Course Materials: [NotesPubliques](https://github.com/michaellaunay/NotesPubliques)
